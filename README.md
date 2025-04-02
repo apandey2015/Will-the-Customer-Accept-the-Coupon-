@@ -40,4 +40,4 @@ Restaurant types and time of the day can be combined to check the acceptance of 
 Income group and the acceptance of coupons can be analyzed.
 All the above can help identify the ideal conditions to push the coupons for maximum acceptance.
 
-
+https://github.com/apandey2015/Will-the-Customer-Accept-the-Coupon-/blob/main/Will%20a%20Customer%20Accept%20the%20Coupon.ipynb
